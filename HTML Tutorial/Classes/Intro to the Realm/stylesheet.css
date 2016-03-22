@@ -1,0 +1,22 @@
+p{
+	color:#000000;
+	font-size:2em;
+	/*forces all paragraphs to be black and 2em large.*/
+}
+
+div p{
+	color:#ff0000;
+	/*all paragraphs within a div become red*/
+}
+
+div div p{
+	color:#ffff00;
+	/*all paragraphs within two divs become yellow*/
+}
+
+div div div p{
+	color:#ffa500;
+	/*all paragraphs within three divs become green*/
+}
+
+/*This allows you to give attributes to specific things instead of all things of the same type*/

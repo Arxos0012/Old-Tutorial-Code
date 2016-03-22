@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1373226402 source:c:\users\arxosxiii\desktop\coding\c++\writing custom file structures\main.cpp
+	<iostream>
+	<fstream>
+

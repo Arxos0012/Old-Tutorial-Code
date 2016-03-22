@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1373224580 source:c:\users\arxosxiii\desktop\coding\c++\tips of file handling\main.cpp
+	<iostream>
+	<fstream>
+

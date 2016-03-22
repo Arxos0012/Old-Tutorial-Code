@@ -1,0 +1,8 @@
+local function main()
+	print(getName())
+end
+main()
+
+function getName()
+	return "Jabari"
+end

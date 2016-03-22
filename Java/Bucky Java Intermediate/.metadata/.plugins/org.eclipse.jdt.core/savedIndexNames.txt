@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\Users\ArxosXIII\Desktop\Coding\Java\Bucky Java Intermediate\.metadata\.plugins\org.eclipse.jdt.core
+1940955397.index
+3288447107.index
+3783292105.index
+2090482743.index
+2420995280.index
+1444342376.index

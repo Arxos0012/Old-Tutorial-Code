@@ -1,0 +1,25 @@
+span{
+	color:blue;
+	font-family:Impact;
+	font-size:30;
+	/*This is a comment in CSS, and this is its only form. The single and multi-line comments have the same
+	format.	
+		You can make all selectors of the same type do the same thing by typing the name if the selectors and
+		adding the attribute within the braces like so. MAKE SURE TO USE SEMI-COLONS LIKE NORMAL CODING
+	*/
+}
+
+p{
+	color:#ff00ff;
+	/*To use custom colors, you can use hexadecimal numbers for RGB colors*/
+	
+	font-size:2em;
+	/*because the size of screens vary, you can use em (don't confuse with <em></em>) as a font measurement
+	that is consistent with all screens*/
+	
+	font-family: Vivaldi, serif;
+	/*not all computer have the same fonts. You can use the default fonts (serif, sans-serif, and cursive)
+	to make sure everyone sees the same font, or use them as backups like the example above.*/
+}
+
+/*The selector can be anything: paragraphs, lists, list items, headers, any text*/

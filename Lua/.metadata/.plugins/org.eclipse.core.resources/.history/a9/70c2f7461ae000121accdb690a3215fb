@@ -1,0 +1,13 @@
+a = "apples"
+b = "bark"
+c = "cactus"
+
+while a == "apples" do
+	print("Apples print in the while loop.\n")
+	a = "This stops the loop"
+end
+
+repeat
+	print("Bark prints in the repeat loop.\n")
+	b = "bagel"
+until b == "bagel"

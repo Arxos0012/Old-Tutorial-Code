@@ -1,0 +1,9 @@
+function main()
+	print(getName())
+end
+
+function getName()
+	return "Jabari"
+end
+
+main()

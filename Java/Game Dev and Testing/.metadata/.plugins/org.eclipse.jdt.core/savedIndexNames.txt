@@ -1,0 +1,9 @@
+INDEX VERSION 1.126+C:\Users\ArxosXIII\Desktop\Coding\Java\Game Dev and Testing\.metadata\.plugins\org.eclipse.jdt.core
+2139584116.index
+2082407017.index
+3668488191.index
+641019220.index
+1935200590.index
+2315755767.index
+3633219583.index
+4147065650.index

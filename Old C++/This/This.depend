@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1373139652 source:c:\users\arxosxiii\desktop\coding\c++\this\beta.cpp
+	<iostream>
+	"beta.h"
+
+1373139652 c:\users\arxosxiii\desktop\coding\c++\this\beta.h
+
+1373139661 source:c:\users\arxosxiii\desktop\coding\c++\this\main.cpp
+	<iostream>
+	"beta.h"
+

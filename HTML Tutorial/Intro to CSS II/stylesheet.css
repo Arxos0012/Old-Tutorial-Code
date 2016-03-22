@@ -1,0 +1,16 @@
+table{
+	border:1px solid black;
+}
+td{
+	border:1px dashed blue;
+	height:50px;
+	/*You can also change the appearance of tables and their header and body cells.
+	These one adds a border around the table and table data cells*/
+}
+
+a{
+	color:#ff0000;
+	text-decoration:none;
+	/*you can also change the appearance of the hyperlinks. For example, this makes the link red and removes
+	the usual underlining*/
+}

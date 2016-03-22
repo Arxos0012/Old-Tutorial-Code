@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1373085865 source:c:\users\arxosxiii\desktop\coding\c++\composition\birthday.cpp
+	<iostream>
+	"birthday.h"
+
+1373085865 c:\users\arxosxiii\desktop\coding\c++\composition\birthday.h
+
+1373085865 source:c:\users\arxosxiii\desktop\coding\c++\composition\main.cpp
+	<iostream>
+	"birthday.h"
+	"people.h"
+
+1373085865 c:\users\arxosxiii\desktop\coding\c++\composition\people.h
+	<string>
+	"birthday.h"
+

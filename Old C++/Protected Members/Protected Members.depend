@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1373152954 source:c:\users\arxosxiii\desktop\coding\c++\protected members\main.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1373153158 c:\users\arxosxiii\desktop\coding\c++\protected members\mother.h
+
+1373152880 c:\users\arxosxiii\desktop\coding\c++\protected members\daughter.h
+
+1373152881 source:c:\users\arxosxiii\desktop\coding\c++\protected members\daughter.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1373153010 source:c:\users\arxosxiii\desktop\coding\c++\protected members\mother.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+

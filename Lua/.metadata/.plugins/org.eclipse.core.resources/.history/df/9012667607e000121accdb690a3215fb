@@ -1,0 +1,11 @@
+--[[NOTE: Similar to C++ cannot call functions that are written after their references]]
+
+function main()
+	print(getName())
+end
+
+function getName()
+	return "Jabari"
+end
+
+main()

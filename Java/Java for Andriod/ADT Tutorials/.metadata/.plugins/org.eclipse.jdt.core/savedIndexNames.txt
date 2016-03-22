@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\ArxosXIII\Desktop\Coding\Java\Java for Andriod\ADT Tutorials\.metadata\.plugins\org.eclipse.jdt.core
+421024716.index
+4155893346.index
+294267546.index

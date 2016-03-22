@@ -1,0 +1,51 @@
+<!DOCTPYE HTML>
+
+<html>
+	<body>
+		<table border="1px">
+		<!--this is the table tag, the border part determines the thickness of the edge,
+		there is no border by default when nothing is added-->
+		
+			<tr>	<!--this is a row within a table-->
+				<td>One</td>	<!--this is a table data entry-->
+				<td>Two</td>	<!--when there are more than one entries in a row, a new column is created-->
+				<td>Three</td>
+			</tr>
+			
+			<tr>
+				<td>Four</td>
+				<td>Five</td>
+				<td>Six</td>
+			</tr>
+		</table>
+		
+		
+		<table>
+			<thead> <!--similar to the head of an html file, stores column titles-->
+				<tr>
+					<th colspan="2"; style="color:red">Numbers</th>	<!--colspan means column span; makes a
+																	cell that spans more than one column,
+																	the number is specified in ""-->
+																	<!--you can add a style as well just by
+																	separating colspan and style with
+																	a semicolon-->
+				</tr>
+				<tr>
+					<th>Romanization</th> <!--you use <th> for table head data-->
+					<th>Numerical</th>
+				</tr>
+			</thead>
+			
+			<tbody> <!--similar to the body of an html file, stores info and stats-->
+				<tr>
+					<td>One</td> <!--table data tag remains the same for the body-->
+					<td>1</td>
+				</tr>
+				<tr>
+					<td>Two</td>
+					<td>2</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>

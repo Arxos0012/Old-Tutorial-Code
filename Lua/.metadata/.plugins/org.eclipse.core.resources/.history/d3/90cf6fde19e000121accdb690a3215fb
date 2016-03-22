@@ -1,0 +1,17 @@
+--[[NOTE: Similar to C++ cannot call functions that are written after their references]]
+
+--Theses are single space comments
+
+--[[These are...
+	multiple line comments.]]
+
+--A function can be global or local; however local functions cannot call global ones
+local function main()
+	print(getName())
+end
+
+function getName()
+	return "Jabari"
+end
+
+main()

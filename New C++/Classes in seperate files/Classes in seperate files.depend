@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1407302096 source:c:\users\arxosxiii\desktop\coding\new c++\classes in seperate files\main.cpp
+	<iostream>
+	"Sample.h"
+
+1407128612 c:\users\arxosxiii\desktop\coding\new c++\classes in seperate files\sample.h
+
+1407128320 source:c:\users\arxosxiii\desktop\coding\new c++\classes in seperate files\sample.cpp
+	"Sample.h"
+	<iostream>
+

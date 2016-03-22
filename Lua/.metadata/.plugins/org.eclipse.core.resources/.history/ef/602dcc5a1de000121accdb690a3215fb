@@ -1,0 +1,20 @@
+a = "apples"
+b = "bark"
+c = {"cat", "cookie", "cycle"}
+--This is a table. Lua it is like an array
+
+while a == "apples" do
+	print("Apples print in the while loop.")
+	a = "This stops the loop"
+end
+--[[---------------------------------------]]
+
+repeat
+	print("Bark prints in the repeat loop.")
+	b = "bagel"
+until b == "bagel"
+--[[---------------------------------------]]
+
+for i = 0,2 do
+	print("This is the " ..i "th index of c")
+end

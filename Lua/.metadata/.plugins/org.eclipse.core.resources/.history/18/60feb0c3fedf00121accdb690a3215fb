@@ -1,0 +1,8 @@
+local function main()
+	print (getName("Jabari"))
+end
+main()
+
+local function getName(name)
+	return name
+end

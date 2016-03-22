@@ -1,0 +1,8 @@
+a = "apples"
+b = "bark"
+c = "cactus"
+
+while a == "apples" do
+	print("Apples print in the while loop.\n")
+end
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1373153354 source:c:\users\arxosxiii\desktop\coding\c++\derived class constructors and destructors\daughter.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1373153440 c:\users\arxosxiii\desktop\coding\c++\derived class constructors and destructors\mother.h
+
+1373153627 c:\users\arxosxiii\desktop\coding\c++\derived class constructors and destructors\daughter.h
+
+1373153440 source:c:\users\arxosxiii\desktop\coding\c++\derived class constructors and destructors\mother.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
